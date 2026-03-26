@@ -1,12 +1,4 @@
-# [librandom](https://github.com/cgwrench/librandom)
+# Librandom
 
-librandom implements a number of state of the art, portable pseudo-random
-number generators in C for integer and floating-point deviates drawn from
-various distributions.
+This is a research project about [Vincenzo Librandi](https://it.wikipedia.org/wiki/Vincenzo_Librandi) and why his last name sounds like a C-lib! LOL
 
-librandom is released under the permissive [BSD 2-Clause
-License](http://opensource.org/licenses/bsd-license.php), see the file COPYING
-for the license text.
-
-**Note**: This project is still in early development. See the file TODO for the
-immediate roadmap.
